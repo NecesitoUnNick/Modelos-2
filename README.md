@@ -17,7 +17,7 @@ Instructor: *Camilo Franco*
 
 |Description|File|
 |----|--------|
-|Notebook|[Microproyecto 1](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/01/MicroProyecto1_StartUp.ipynb)|
+|Notebook|[Microproyecto 1](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/MicroProyecto1_StartUp.ipynb)|
 |Informe|[Microproyecto 1](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Entrega%20Proyecto.pdf)|
 
  
