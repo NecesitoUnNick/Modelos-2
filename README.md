@@ -27,3 +27,5 @@ Instructor: *Camilo Franco*
 
 |Description  | File|
 |-----------: |:------------:|
+|Semana 1|[Introducción Modelos de Aprendizaje](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Semana1.ipynb)|
+|Semana 2|[Introducción Redes Neuronales](https://github.com/NecesitoUnNick/Modelos-2/blob/master/02/semana2.ipynb)|
