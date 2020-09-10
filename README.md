@@ -29,4 +29,4 @@ Instructor: *Camilo Franco*
 |-----------: |:------------:|
 |Semana 1|[Introducción Modelos de Aprendizaje](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Semana1.ipynb)|
 |Semana 2|[Introducción Redes Neuronales](https://github.com/NecesitoUnNick/Modelos-2/blob/master/02/semana2.ipynb)|
-|Semana 3|[Red Neuronal Sencilla](https://github.com/NecesitoUnNick/Modelos-2/blob/master/03/Semana3_RedNeuronalSencilla_Actividad.ipynb)|
+|Semana 3|[Red Neuronal Sencilla](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/03/Semana3_RedNeuronalSencilla_Actividad.ipynb)|
