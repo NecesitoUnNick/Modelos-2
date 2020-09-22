@@ -32,3 +32,5 @@ Instructor: *Camilo Franco*
 |Semana 3|[Red Neuronal Sencilla](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/03/Semana3_RedNeuronalSencilla_Actividad.ipynb)|
 |Semana 4|[Red neuronal multi-capa](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/04/Semana4_RedNeuronalProfunda_Actividad.ipynb)|
 |Semana 5|[Red neuronal profundas - Keras](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/05/Semana5_RedesProfundas_Keras_Actividad.ipynb)|
+|Semana 6|[Redes Convolucionales](https://github.com/NecesitoUnNick/Modelos-2/blob/master/06/Semana6_RedesConvolucionales_Actividad.ipynb)|
+
