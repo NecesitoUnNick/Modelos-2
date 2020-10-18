@@ -34,4 +34,5 @@ Instructor: *Camilo Franco*
 |Semana 5|[Red neuronal profundas - Keras](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/05/Semana5_RedesProfundas_Keras_Actividad.ipynb)|
 |Semana 6|[Redes Convolucionales](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/06/Semana6_RedesConvolucionales_Actividad.ipynb)|
 |Semana 7|[Transfer Learning](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/07/Semana7_TransferLearning_Actividad.ipynb)|
+|Semana 8|[Red Neuronal Recurrente](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/08/Semana8_RedNeuronalRecurrente_LSTMBidireccional_Actividad.ipynb)|
 
