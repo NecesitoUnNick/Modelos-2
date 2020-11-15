@@ -36,3 +36,5 @@ Instructor: *Camilo Franco*
 |Semana 7|[Transfer Learning](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/07/Semana7_TransferLearning_Actividad.ipynb)|
 |Semana 8|[Red Neuronal Recurrente](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/08/Semana8_RedNeuronalRecurrente_LSTMBidireccional_Actividad.ipynb)|
 |Semana 10|[Sistemas de Recomendacion](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/10/Semana10_IntroSistemasRecomendacion_Actividad.ipynb)|
+|Semana 11|[Sistemas de Recomendacion por Contenido](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/10/Semana10_IntroSistemasRecomendacion_Actividad.ipynb)|
+|Semana 12|[Preferencias Implícitas](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/12/Semana12_PreferenciasImplicitas_Actividad.ipynb)|
