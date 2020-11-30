@@ -38,3 +38,4 @@ Instructor: *Camilo Franco*
 |Semana 10|[Sistemas de Recomendacion](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/10/Semana10_IntroSistemasRecomendacion_Actividad.ipynb)|
 |Semana 11|[Sistemas de Recomendacion por Contenido](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/10/Semana10_IntroSistemasRecomendacion_Actividad.ipynb)|
 |Semana 12|[Preferencias Implícitas](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/12/Semana12_PreferenciasImplicitas_Actividad.ipynb)|
+|Semana 13|[Filtrado Colaborativo](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/13/Semana13_FiltradoColaborativo_Surprise_Actividad.ipynb)|
