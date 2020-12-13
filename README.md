@@ -23,7 +23,7 @@ Instructor: *Camilo Franco*
 ### Microproyecto 2
 |Description|File|
 |----|--------|
-|Notebook*|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
+|Notebook¹|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
 |Informe|[Microproyecto 2](https://github.com/NecesitoUnNick/Modelos-2/blob/master/Microproyecto%202/Informe.pdf)|
 
 ### Ejercicios
@@ -44,4 +44,4 @@ Instructor: *Camilo Franco*
 |Semana 14|[Evaluación de Recomendaciones](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/14/Semana14_EvaluacionModelos_Actividad.ipynb)|
 
 
-*Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
+1. Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
