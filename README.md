@@ -21,12 +21,16 @@ Instructor: *Camilo Franco*
 |Informe|[Microproyecto 1](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Entrega%20Proyecto.pdf)|
 
 ### Microproyecto 2
+
+
 |Description|File|
 |----|--------|
-|Notebook¹|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
+|Notebook|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
 |Informe|[Microproyecto 2](https://github.com/NecesitoUnNick/Modelos-2/blob/master/Microproyecto%202/Informe.pdf)|
 
 ### Ejercicios
+
+
 |Description  | File|
 |-----------: |:------------:|
 |Semana 1|[Introducción Modelos de Aprendizaje](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Semana1.ipynb)|
@@ -44,4 +48,4 @@ Instructor: *Camilo Franco*
 |Semana 14|[Evaluación de Recomendaciones](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/14/Semana14_EvaluacionModelos_Actividad.ipynb)|
 
 
-1. Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
+*Sugerencia notebook microproyecto 2. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
