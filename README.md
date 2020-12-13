@@ -26,8 +26,6 @@ Instructor: *Camilo Franco*
 |Notebook*|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
 |Informe|[Microproyecto 2](https://github.com/NecesitoUnNick/Modelos-2/blob/master/Microproyecto%202/Informe.pdf)|
 
-*Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
-
 ### Ejercicios
 |Description  | File|
 |-----------: |:------------:|
@@ -44,3 +42,6 @@ Instructor: *Camilo Franco*
 |Semana 12|[Preferencias Implícitas](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/12/Semana12_PreferenciasImplicitas_Actividad.ipynb)|
 |Semana 13|[Filtrado Colaborativo](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/13/Semana13_FiltradoColaborativo_Surprise_Actividad.ipynb)|
 |Semana 14|[Evaluación de Recomendaciones](https://nbviewer.jupyter.org/github/NecesitoUnNick/Modelos-2/blob/master/14/Semana14_EvaluacionModelos_Actividad.ipynb)|
+
+
+*Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
