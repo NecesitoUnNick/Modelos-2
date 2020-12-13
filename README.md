@@ -20,11 +20,14 @@ Instructor: *Camilo Franco*
 |Notebook|[Microproyecto 1](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/MicroProyecto1_StartUp.ipynb)|
 |Informe|[Microproyecto 1](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Entrega%20Proyecto.pdf)|
 
- 
+### Microproyecto 1 
+|Description|File|
+|----|--------|
+|Notebook*|[Microproyecto 2](https://nbviewer.jupyter.org/url/www.conde.com.co/modelos2/MicroProyecto2_MusicRecommender.ipynb)|
+|Informe|[Microproyecto 2](https://github.com/NecesitoUnNick/Modelos-2/blob/master/Microproyecto%202/Informe.pdf)|
+*Sugerencia. Debido al tamaño del notebook, se recomienda darle un par de minutos para que cargue correctamente.
 
 ### Ejercicios
- 
-
 |Description  | File|
 |-----------: |:------------:|
 |Semana 1|[Introducción Modelos de Aprendizaje](https://github.com/NecesitoUnNick/Modelos-2/blob/master/01/Semana1.ipynb)|
